@@ -1,2 +1,6 @@
 # geopath_lpbf
-This repository contains the code and data to reproduce the results in the paper ...
+This repository contains the code and data to reproduce the results in the paper {}
+
+![Framework](framework.png)
+
+Contact: kahraman_demir@berkeley.edu for more information.
